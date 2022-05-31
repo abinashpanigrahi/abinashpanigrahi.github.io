@@ -442,8 +442,8 @@ section {
 
 #skills-grid{
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  /* grid-template-rows: 300px; */
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: 200px 200px;
   grid-gap: 50px;
 }
 
@@ -461,8 +461,8 @@ section {
 
 .skill-language > img{
   margin: auto;
-  width: 80%;
-  height: 70%;
+  width: 60%;
+  height: 60%;
 }
 
 .skill-language > p{
